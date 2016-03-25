@@ -7,10 +7,10 @@ I use Python to access a DHT22 sensor to grab the temperature and humidity data.
 
 Charts are made with Google Charts and Plotly for more advanced processing.
 
+## YouTube
+
+YouTube:
+
 ## Circuit Diagram
 
 ![Circuit Diagram](/Circuit.png?raw=true "Circuit Diagram")
-
-## YouTube
-
-YouTube: 
